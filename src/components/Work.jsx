@@ -45,7 +45,7 @@ const Work = () => {
                         Power Washing
                     </span>
                     <div className="pt-8 text-black text-center">
-                        <a href="https://allshorepressure.com/" target="_blank" rel="noreferrer">
+                        <a href="https://lkoenig2121.github.io/allShorePressure/" target="_blank" rel="noreferrer">
                           <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                             Website</button>
                         </a>
@@ -83,7 +83,7 @@ const Work = () => {
                         Wedding Website
                     </span>
                     <div className="pt-8 text-black text-center">
-                        <a href="http://richardkoenig.com/" target="_blank" rel="noreferrer">
+                        <a href="https://lkoenig2121.github.io/TylersWedding/" target="_blank" rel="noreferrer">
                           <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                             Website</button>
                         </a>
