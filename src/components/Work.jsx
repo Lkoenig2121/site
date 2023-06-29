@@ -42,7 +42,7 @@ const Work = () => {
                 
                 <div className="opacity-0 group-hover:opacity-100">
                     <span className="text-2xl font-bold text-black tracking-wider">
-                        Power Washing
+                        Power Washin
                     </span>
                     <div className="pt-8 text-black text-center">
                         <a href="https://lkoenig2121.github.io/allShorePressure/" target="_blank" rel="noreferrer">
